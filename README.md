@@ -1,7 +1,9 @@
 # Professional Certificate in Machine Learning and Artificial Intelligence
-# Module 5: Practical Application 1: Will the Customer Accept the Coupon?
+## Module 5: Practical Application 1: Will the Customer Accept the Coupon?
 
-The data comes from the UCI Machine Learning repository and was collected through a survey from the Amazon Mechanical Turk. The original project file comes form the Professional Certificate in Machine Learning and Artificial Intelligence class offered by BerkeleyExecEd|BerkeleyHaas, where it guides students through some initial analysis on the dataset as an example before becoming an open-ended investigation for students to find their own independent conclusions. This data in the data folder of this repository as a CSV file.
+The data comes from the UCI Machine Learning repository and was collected through a survey from the Amazon Mechanical Turk. The original project file comes form the Professional Certificate in Machine Learning and Artificial Intelligence class offered by BerkeleyExecEd|BerkeleyHaas, where it guides students through some initial analysis on the dataset as an example before becoming an open-ended investigation for students to find their own independent conclusions. This data in the data folder of this repository as a [CSV file] (https://github.com/tshih94/coupon-acceptance/blob/main/data/coupons.csv)
+
+Link for the [The Jupyter Notebook](https://github.com/tshih94/coupon-acceptance/blob/main/prompt.ipynb)
 
 ## Findings (Guided)
 The guided portion of the analysis focused on coupons for bars, with **41%** of people offered bar coupons accepting the coupon overall. The acceptance rate jumped to **76%** when focusing only on people who reported they went to a bar 3 or more times a month compared to **37%** for those that did not go that often.
