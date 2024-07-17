@@ -1,4 +1,3 @@
-# coupon-acceptance
 # Professional Certificate in Machine Learning and Artificial Intelligence
 # Module 5: Practical Application 1: Will the Customer Accept the Coupon?
 
